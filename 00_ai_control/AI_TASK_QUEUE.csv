@@ -1,0 +1,12 @@
+task_id,task_name,assigned_ai,status,priority,target_file,start_time,end_time,notes
+CTRL-001,AI 운영 시스템 구축,Codex,done,CRITICAL,00_ai_control/*,2026-05-24T16:15,2026-05-24T16:45,AI 제어 시스템 11개 파일 생성
+TASK-001,Instagram 계정 분석 리포트,Gemini Pro,pending,HIGH,02_account_research/,2026-05-25T09:00,,현재 팔로워 24470 → 전략 분석 필요
+TASK-002,콘텐츠 아이디어 생성,ChatGPT Pro,pending,HIGH,04_content_db/content_ideas.csv,2026-05-25T10:00,,첫 콘텐츠: 밥 먹었어? 의미 설명
+TASK-003,콘텐츠 대강 작성,Claude Max,pending,MEDIUM,04_content_db/,2026-05-26T09:00,,TASK-002 완료 후
+TASK-004,콘텐츠 최종 검수,ChatGPT Pro,pending,HIGH,04_content_db/,2026-05-26T14:00,,Claude 초안 검수
+TASK-005,이미지/비디오 소스 확보,허간,pending,HIGH,,2026-05-27T09:00,,허간이 직접 제공
+TASK-006,Instagram 콘텐츠 업로드,허간,pending,CRITICAL,,2026-05-27T15:00,,최종 승인 후 업로드
+TASK-007,주간 성과 측정,Codex,pending,MEDIUM,05_metrics/weekly_metrics_template.csv,2026-05-31T17:00,,매주 금요일
+TASK-008,베트남 시장 트렌드 분석,Gemini Pro,pending,MEDIUM,02_account_research/,2026-06-01T09:00,,월 1회
+TASK-009,AI 팀 주간 회의,ChatGPT Pro,pending,LOW,AI_DECISION_LOG.md,2026-06-06T10:00,,매주 금요일 10시
+TASK-010,월간 보고서 작성,Codex,pending,MEDIUM,05_metrics/,2026-06-30T17:00,,월말 최종 보고
